@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\DonkeyKong_SIS457.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CD49F27F-5A37-4FDB-BC09-68F0930E067D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DonkeyKong_SIS457.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DonkeyKong_SIS457Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{7BA08B09-B390-47BC-B72C-BC3007419EA9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\DonkeyKong_SIS457">
+      <UniqueIdentifier>{7482ACD3-B5EC-449C-8C01-13050B15DC0D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DonkeyKong_SIS457\DonkeyKong_SIS457.Build.cs">
+      <Filter>Source\DonkeyKong_SIS457</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DonkeyKong_SIS457\DonkeyKong_SIS457.cpp">
+      <Filter>Source\DonkeyKong_SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_SIS457\DonkeyKong_SIS457.h">
+      <Filter>Source\DonkeyKong_SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong_SIS457\DonkeyKong_SIS457Character.cpp">
+      <Filter>Source\DonkeyKong_SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_SIS457\DonkeyKong_SIS457Character.h">
+      <Filter>Source\DonkeyKong_SIS457</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DonkeyKong_SIS457\DonkeyKong_SIS457GameMode.cpp">
+      <Filter>Source\DonkeyKong_SIS457</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DonkeyKong_SIS457\DonkeyKong_SIS457GameMode.h">
+      <Filter>Source\DonkeyKong_SIS457</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
